@@ -3,4 +3,4 @@ Feature: Search
 
   Scenario: Google default title verification
     Given User is on the google search page
-    Then User should see title is Googlee
+    Then User should see title is Google
